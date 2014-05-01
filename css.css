@@ -1,0 +1,23 @@
+/*
+by 无名科技
+http://blog.wmkjlm.com
+2013年01月04日
+*/
+body { margin:0 auto; width:700px; font-size:14px;}
+
+a:link {text-decoration:none; color:gray;} 
+a:visited {text-decoration:none; color:gray;} 
+
+#all {}
+
+#logo { font-size:22px; font-weight:bold; text-align:center; margin-top:100px;}
+
+#form { text-align: center;margin-top:35px;}
+
+#trurl {text-align: center; margin:25px auto; line-height:20px;}
+
+#surported { text-align:center; font-weight:bold;margin-top:50px}
+
+#hr { width:500px; margin:5px 100px;}
+
+#powered { font-size:12px; text-align:center;}
